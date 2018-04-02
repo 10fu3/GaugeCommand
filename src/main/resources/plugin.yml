@@ -1,0 +1,6 @@
+name: GaugeCommand
+version: ${project.version}
+main: jp.msfblue1.gaugecommand.GaugeCommand
+commands:
+  gauge:
+    description: 'None'
